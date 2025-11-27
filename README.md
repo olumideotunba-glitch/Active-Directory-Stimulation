@@ -87,7 +87,7 @@ Result: USB and external drives are disabled for all users in the **Accounts OU*
 
 ## Screenshots
 
-- AD Domain Structure
+- [AD Domain Structure](https://github.com/olumideotunba-glitch/Active-Directory-Stimulation/blob/main/Screenshot/Creating_Organization_%20units_%26users5i.png)
 - GPO Editor Screenshot
 - PC joined to domain
 - Result of denied USB access
