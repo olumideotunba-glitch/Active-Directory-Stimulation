@@ -88,7 +88,7 @@ Result: Disable shut down from user in the **Accounts OU**.
 ## Screenshots
 
 - [AD Domain Structure](https://github.com/olumideotunba-glitch/Active-Directory-Stimulation/blob/main/Screenshot/Creating_Organization_%20units_%26users5i.png)
-- GPO Editor Screenshot
+  {https://github.com/olumideotunba-glitch/Active-Directory-Stimulation/blob/819d7f8192f59904c23f547a26a6c738ed38f220/Linking%20GPO%20into%20Domain.png}GPO Editor Screenshot
 - PC joined to domain
 - Result of Disablling Shut Down
 
